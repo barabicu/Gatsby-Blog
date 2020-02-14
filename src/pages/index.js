@@ -1,4 +1,6 @@
 import React from "react"
+import styled from "@emotion/styled"
+import { css } from "@emotion/core"
 // importを追記
 import { useStaticQuery, graphql, Link } from "gatsby"
 
